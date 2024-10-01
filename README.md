@@ -4,7 +4,7 @@
 This project analyzes weather data from Australia, focusing on temperature patterns in Canberra. It uses various data analysis and machine learning techniques to process, visualize, and model the temperature trends.
 
 ## Data Source
-The project uses the "weatherAUS.csv" dataset, which contains weather information for various locations in Australia.
+The project uses the "weatherAUS.csv" dataset, which contains weather information for various locations in Australia. The dataset was retrieved from Kaggle. It is an extended version of https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package.
 
 ## Features
 1. Data Loading and Preprocessing
