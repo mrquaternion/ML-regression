@@ -1,7 +1,7 @@
 # Weather Data Analysis Project
 
 ## Overview
-This project analyzes weather data from Australia, focusing on temperature patterns in Canberra. It uses various data analysis and machine learning techniques to process, visualize, and model the temperature trends.
+This project analyzes weather data from Australia, focusing on temperature patterns in Canberra. It uses various data analysis and machine learning techniques to process, visualize, and model the temperature trends. The only purpose of this project was to understand the basis of data science. 
 
 ## Data Source
 The project uses the "weatherAUS.csv" dataset, which contains weather information for various locations in Australia. The dataset was retrieved from Kaggle. It is an extended version of https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package.
@@ -16,13 +16,6 @@ The project uses the "weatherAUS.csv" dataset, which contains weather informatio
 ## Technical Stack
 - Python
 - Libraries: TensorFlow, NumPy, Pandas, Matplotlib
-
-## Key Components
-
-### Data Preparation
-- Loads weather data from CSV
-- Filters data for Canberra
-- Calculates average daily temperature
 
 ### Visualization
 - Plots average temperature over time
@@ -42,11 +35,5 @@ The project uses the "weatherAUS.csv" dataset, which contains weather informatio
 - Evaluates model performance using R-squared values
 - Analyzes residuals to assess model fit
 
-## Results
-The project demonstrates the application of different regression techniques to model temperature trends. It highlights the impact of regularization on model performance and provides insights into the temperature patterns in Canberra.
-
-## Usage
-To run this analysis:
-1. Ensure you have Python and the required libraries installed
-2. Place the "weatherAUS.csv" file in the project directory
-3. Run the Jupyter notebook "data_analysis.ipynb"
+## Future ameliorations (updated)
+If this project were to be redone from the ground up, several improvements would be included before applying the regression model. Initially, I would conduct thorough data processing, addressing outliers with various methods. Additionally, I would implement feature selection to optimize the model's performance.
